@@ -1,2 +1,4 @@
 added more work for
 this is file 2 text just for try
+this one is second command for we can see
+changes for file 2
